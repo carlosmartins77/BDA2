@@ -1,0 +1,33 @@
+1.with sal (
+SELECT avg(unitPrice) as mediapreco
+FROM sales
+)
+SELECT product.* 
+FROM product, sal 
+where product.listprice > sal.mediapreco
+
+2.										 
+select salesorderdetail.productid, salesorderdetail.unitprice, (salesorderdetail.unitprice * (1 -  salesorderdetail.unitpricediscount)) as discountedprice
+from salesorderdetail
+where salesorderdetail.unitprice > 100 
+  and (salesorderdetail.unitprice * (1 -  salesorderdetail.unitpricediscount)) < 100;
+
+3.
+with sal as (
+SELECT productID, avg(unitPrice) as mediapreco
+FROM salesorderdetail
+group by productID
+)
+SELECT product.productID, product.Name, product.standardcost, product.listprice, sal.mediapreco
+FROM product, sal 
+where product.productID = sal.productID;
+
+4.
+with sal as (
+SELECT productID, avg(unitPrice) as mediapreco
+FROM salesorderdetail
+group by productID
+)
+SELECT product.productID, product.Name, product.standardcost, product.listprice, sal.mediapreco
+FROM product, sal 
+where product.standardcost > sal.mediapreco;
