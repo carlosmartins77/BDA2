@@ -1,4 +1,4 @@
-CREATE TABLE temp_SalesOrderDetail (
+CREATE TABLE temp_SalesOrderDetail	 (
     SalesOrderDetailId int,
     SalesOrderId int,
     OrderQty tinyint,
@@ -38,7 +38,7 @@ CREATE TABLE temp_SalesOrder (
 	STORED AS TEXTFILE
 	TBLPROPERTIES("skip.header.line.count"="1");
 	
-	LOAD DATA INPATH '/warehouse/tablespace/external/hive/bda_g01_files/SALESORDER_FILE.csv' INTO TABLE temp_SalesOrderl ;
+	LOAD DATA INPATH '/warehouse/tablespace/external/hive/bda_g01_files/SALESORDER_FILE.csv' INTO TABLE temp_SalesOrder ;
 
 
 
