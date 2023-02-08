@@ -53,6 +53,7 @@ CREATE TABLE temp_SalesOrder (
     CompanyName string,
     SalesPerson string,
     EmailAddress string,
+    Phone string,
     ModifiedDate timestamp)
 	ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
 	STORED AS TEXTFILE

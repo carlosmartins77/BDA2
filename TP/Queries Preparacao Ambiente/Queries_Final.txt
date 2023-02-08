@@ -49,7 +49,7 @@ CREATE TABLE `Customer` (
     CompanyName string,
     SalesPerson string,
     EmailAddress string,
-    Phone sting,
+    Phone string,
     ModifiedDate timestamp)
 	STORED AS ORC;
 	
@@ -74,6 +74,4 @@ ProductId smallint,
 	STORED AS ORC;
 	
 	INSERT INTO TABLE `Product` SELECT * FROM bda_g01_files.temp_product;
-	
-	SELECT * FROM Product;
 	
