@@ -1,0 +1,71 @@
+CREATE TABLE temp_Order (
+   CustomerId smallint,
+    NameStyle tinyint,
+    Title string,
+    FirstName string,
+    MiddleName string,
+    LastName string,
+    Suffix string,
+    CompanyName string,
+    SalesPerson string,
+    EmailAddress string,
+    ModifiedDate timestamp)
+	ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
+	STORED AS TEXTFILE
+	TBLPROPERTIES("skip.header.line.count"="1");
+	
+	LOAD DATA INPATH '/warehouse/tablespace/external/hive/bda_g01_files/ORDER_FILE.csv' INTO TABLE temp_order;
+
+	CREATE TABLE temp_Customer (
+   CustomerId smallint,
+    NameStyle tinyint,
+    Title string,
+    FirstName string,
+    MiddleName string,
+    LastName string,
+    Suffix string,
+    CompanyName string,
+    SalesPerson string,
+    EmailAddress string,
+    ModifiedDate timestamp)
+	ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
+	STORED AS TEXTFILE
+	TBLPROPERTIES("skip.header.line.count"="1");
+	
+	LOAD DATA INPATH '/warehouse/tablespace/external/hive/bda_g01_files/CUSTOMER_FILE.csv' INTO TABLE temp_Customer;
+	
+	CREATE TABLE temp_Sale (
+   	 SalesOrderId int,
+    SalesOrderDetailId int,
+    OrderQty tinyint,
+    ProductId smallint,
+    UnitPrice float,
+    UnitPriceDiscount float,
+    LineTotal float,
+    ModifiedDate timestamp)
+	ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
+	STORED AS TEXTFILE
+	TBLPROPERTIES("skip.header.line.count"="1");
+	
+	LOAD DATA INPATH '/warehouse/tablespace/external/hive/bda_g01_files/SALES_FILE.csv' INTO TABLE temp_Sale;
+	
+	CREATE TABLE temp_Product (
+   	   ProductId smallint,
+    Name string,
+    ProductNumber string,
+    Color string,
+    StandardCost float,
+    ListPrice float,
+    Size string,
+    Weight float,
+    ProductCategoryId tinyint,
+    ProductModelId smallint,
+    SellStartDate timestamp,
+    SellEndDate timestamp,
+    ModifiedDate timestamp)
+	ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
+	STORED AS TEXTFILE
+	TBLPROPERTIES("skip.header.line.count"="1");
+	
+	LOAD DATA INPATH '/warehouse/tablespace/external/hive/bda_g01_files/PRODUCT_FILE.csv' INTO TABLE temp_Product;
+

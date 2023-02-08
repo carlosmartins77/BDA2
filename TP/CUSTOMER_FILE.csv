@@ -1,0 +1,543 @@
+﻿CustomerID,NameStyle,Title,FirstName,MiddleName,LastName,Suffix,CompanyName,SalesPerson,EmailAddress,Phone,ModifiedDate
+29847,0,Mr.,David,NULL,Hodgson,NULL,Good Toys,adventure-works\linda3,david16@adventure-works.com,969-555-0117,2006-09-01 00:00:00.000
+29847,0,Mr.,David,NULL,Hodgson,NULL,Good Toys,adventure-works\linda3,david16@adventure-works.com,969-555-0117,2006-09-01 00:00:00.000
+30072,0,Ms.,Andrea,A.,Thomsen,NULL,West Side Mart,adventure-works\jae0,andrea1@adventure-works.com,1 (11) 500 555-0120,2007-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+30113,0,Mr.,Raja,D.,Venugopal,NULL,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1 (11) 500 555-0195,2006-09-01 00:00:00.000
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29485,0,Ms.,Catherine,R.,Abel,NULL,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,747-555-0171,2009-05-16 16:33:33.077
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29957,0,Mr.,Kevin,NULL,Liu,NULL,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,926-555-0164,2006-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29736,0,Mr.,Terry,NULL,Eminhizer,NULL,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1 (11) 500 555-0176,2007-09-01 00:00:00.000
+29660,0,Mr.,Anthony,NULL,Chor,NULL,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,429-555-0145,2007-09-01 00:00:00.000
+29660,0,Mr.,Anthony,NULL,Chor,NULL,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,429-555-0145,2007-09-01 00:00:00.000
+29660,0,Mr.,Anthony,NULL,Chor,NULL,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,429-555-0145,2007-09-01 00:00:00.000
+29660,0,Mr.,Anthony,NULL,Chor,NULL,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,429-555-0145,2007-09-01 00:00:00.000
+29660,0,Mr.,Anthony,NULL,Chor,NULL,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,429-555-0145,2007-09-01 00:00:00.000
+29660,0,Mr.,Anthony,NULL,Chor,NULL,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,429-555-0145,2007-09-01 00:00:00.000
+29660,0,Mr.,Anthony,NULL,Chor,NULL,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,429-555-0145,2007-09-01 00:00:00.000
+29660,0,Mr.,Anthony,NULL,Chor,NULL,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,429-555-0145,2007-09-01 00:00:00.000
+29660,0,Mr.,Anthony,NULL,Chor,NULL,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,429-555-0145,2007-09-01 00:00:00.000
+29660,0,Mr.,Anthony,NULL,Chor,NULL,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,429-555-0145,2007-09-01 00:00:00.000
+29660,0,Mr.,Anthony,NULL,Chor,NULL,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,429-555-0145,2007-09-01 00:00:00.000
+29660,0,Mr.,Anthony,NULL,Chor,NULL,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,429-555-0145,2007-09-01 00:00:00.000
+29660,0,Mr.,Anthony,NULL,Chor,NULL,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,429-555-0145,2007-09-01 00:00:00.000
+29660,0,Mr.,Anthony,NULL,Chor,NULL,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,429-555-0145,2007-09-01 00:00:00.000
+29660,0,Mr.,Anthony,NULL,Chor,NULL,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,429-555-0145,2007-09-01 00:00:00.000
+29660,0,Mr.,Anthony,NULL,Chor,NULL,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,429-555-0145,2007-09-01 00:00:00.000
+29660,0,Mr.,Anthony,NULL,Chor,NULL,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,429-555-0145,2007-09-01 00:00:00.000
+29660,0,Mr.,Anthony,NULL,Chor,NULL,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,429-555-0145,2007-09-01 00:00:00.000
+29660,0,Mr.,Anthony,NULL,Chor,NULL,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,429-555-0145,2007-09-01 00:00:00.000
+29660,0,Mr.,Anthony,NULL,Chor,NULL,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,429-555-0145,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+29796,0,Mr.,Jon,NULL,Grande,NULL,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1 (11) 500 555-0114,2007-09-01 00:00:00.000
+30089,0,Mr.,Michael John,R.,Troyer,NULL,Thrifty Parts and Sales,adventure-works\linda3,michaeljohn0@adventure-works.com,308-555-0175,2007-09-01 00:00:00.000
+30089,0,Mr.,Michael John,R.,Troyer,NULL,Thrifty Parts and Sales,adventure-works\linda3,michaeljohn0@adventure-works.com,308-555-0175,2007-09-01 00:00:00.000
+30089,0,Mr.,Michael John,R.,Troyer,NULL,Thrifty Parts and Sales,adventure-works\linda3,michaeljohn0@adventure-works.com,308-555-0175,2007-09-01 00:00:00.000
+30027,0,Mr.,Joseph,P.,Mitzner,Jr.,Engineered Bike Systems,adventure-works\shu0,joseph4@adventure-works.com,129-555-0164,2007-09-01 00:00:00.000
+30027,0,Mr.,Joseph,P.,Mitzner,Jr.,Engineered Bike Systems,adventure-works\shu0,joseph4@adventure-works.com,129-555-0164,2007-09-01 00:00:00.000
+30027,0,Mr.,Joseph,P.,Mitzner,Jr.,Engineered Bike Systems,adventure-works\shu0,joseph4@adventure-works.com,129-555-0164,2007-09-01 00:00:00.000
+30027,0,Mr.,Joseph,P.,Mitzner,Jr.,Engineered Bike Systems,adventure-works\shu0,joseph4@adventure-works.com,129-555-0164,2007-09-01 00:00:00.000
+30027,0,Mr.,Joseph,P.,Mitzner,Jr.,Engineered Bike Systems,adventure-works\shu0,joseph4@adventure-works.com,129-555-0164,2007-09-01 00:00:00.000
+30027,0,Mr.,Joseph,P.,Mitzner,Jr.,Engineered Bike Systems,adventure-works\shu0,joseph4@adventure-works.com,129-555-0164,2007-09-01 00:00:00.000
+30027,0,Mr.,Joseph,P.,Mitzner,Jr.,Engineered Bike Systems,adventure-works\shu0,joseph4@adventure-works.com,129-555-0164,2007-09-01 00:00:00.000
+30019,0,Mr.,Matthew,J.,Miller,NULL,Tachometers and Accessories,adventure-works\jae0,matthew5@adventure-works.com,1 (11) 500 555-0176,2006-09-01 00:00:00.000
+30019,0,Mr.,Matthew,J.,Miller,NULL,Tachometers and Accessories,adventure-works\jae0,matthew5@adventure-works.com,1 (11) 500 555-0176,2006-09-01 00:00:00.000
+30019,0,Mr.,Matthew,J.,Miller,NULL,Tachometers and Accessories,adventure-works\jae0,matthew5@adventure-works.com,1 (11) 500 555-0176,2006-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29922,0,Ms.,Pamala,M.,Kotc,NULL,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1 (11) 500 555-0173,2007-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+29938,0,Mr.,Frank,NULL,Campbell,NULL,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,491-555-0132,2005-09-01 00:00:00.000
+30102,0,Mr.,Roger,NULL,Van Houten,NULL,Sports Store,adventure-works\jae0,roger2@adventure-works.com,1 (11) 500 555-0110,2006-12-01 00:00:00.000
+30102,0,Mr.,Roger,NULL,Van Houten,NULL,Sports Store,adventure-works\jae0,roger2@adventure-works.com,1 (11) 500 555-0110,2006-12-01 00:00:00.000
+30102,0,Mr.,Roger,NULL,Van Houten,NULL,Sports Store,adventure-works\jae0,roger2@adventure-works.com,1 (11) 500 555-0110,2006-12-01 00:00:00.000
+30102,0,Mr.,Roger,NULL,Van Houten,NULL,Sports Store,adventure-works\jae0,roger2@adventure-works.com,1 (11) 500 555-0110,2006-12-01 00:00:00.000
+30033,0,Mr.,Vassar,J.,Stern,NULL,Transport Bikes,adventure-works\shu0,vassar0@adventure-works.com,328-555-0123,2007-09-01 00:00:00.000
+30033,0,Mr.,Vassar,J.,Stern,NULL,Transport Bikes,adventure-works\shu0,vassar0@adventure-works.com,328-555-0123,2007-09-01 00:00:00.000
+29653,0,Mr.,Pei,NULL,Chow,NULL,Thrilling Bike Tours,adventure-works\linda3,pei0@adventure-works.com,789-555-0184,2007-09-01 00:00:00.000
+29653,0,Mr.,Pei,NULL,Chow,NULL,Thrilling Bike Tours,adventure-works\linda3,pei0@adventure-works.com,789-555-0184,2007-09-01 00:00:00.000
+29653,0,Mr.,Pei,NULL,Chow,NULL,Thrilling Bike Tours,adventure-works\linda3,pei0@adventure-works.com,789-555-0184,2007-09-01 00:00:00.000
+29653,0,Mr.,Pei,NULL,Chow,NULL,Thrilling Bike Tours,adventure-works\linda3,pei0@adventure-works.com,789-555-0184,2007-09-01 00:00:00.000
+29653,0,Mr.,Pei,NULL,Chow,NULL,Thrilling Bike Tours,adventure-works\linda3,pei0@adventure-works.com,789-555-0184,2007-09-01 00:00:00.000
+29653,0,Mr.,Pei,NULL,Chow,NULL,Thrilling Bike Tours,adventure-works\linda3,pei0@adventure-works.com,789-555-0184,2007-09-01 00:00:00.000
+29653,0,Mr.,Pei,NULL,Chow,NULL,Thrilling Bike Tours,adventure-works\linda3,pei0@adventure-works.com,789-555-0184,2007-09-01 00:00:00.000
+29653,0,Mr.,Pei,NULL,Chow,NULL,Thrilling Bike Tours,adventure-works\linda3,pei0@adventure-works.com,789-555-0184,2007-09-01 00:00:00.000
+29653,0,Mr.,Pei,NULL,Chow,NULL,Thrilling Bike Tours,adventure-works\linda3,pei0@adventure-works.com,789-555-0184,2007-09-01 00:00:00.000
+29653,0,Mr.,Pei,NULL,Chow,NULL,Thrilling Bike Tours,adventure-works\linda3,pei0@adventure-works.com,789-555-0184,2007-09-01 00:00:00.000
+29653,0,Mr.,Pei,NULL,Chow,NULL,Thrilling Bike Tours,adventure-works\linda3,pei0@adventure-works.com,789-555-0184,2007-09-01 00:00:00.000
+29653,0,Mr.,Pei,NULL,Chow,NULL,Thrilling Bike Tours,adventure-works\linda3,pei0@adventure-works.com,789-555-0184,2007-09-01 00:00:00.000
+29653,0,Mr.,Pei,NULL,Chow,NULL,Thrilling Bike Tours,adventure-works\linda3,pei0@adventure-works.com,789-555-0184,2007-09-01 00:00:00.000
+29653,0,Mr.,Pei,NULL,Chow,NULL,Thrilling Bike Tours,adventure-works\linda3,pei0@adventure-works.com,789-555-0184,2007-09-01 00:00:00.000
+29653,0,Mr.,Pei,NULL,Chow,NULL,Thrilling Bike Tours,adventure-works\linda3,pei0@adventure-works.com,789-555-0184,2007-09-01 00:00:00.000
+29653,0,Mr.,Pei,NULL,Chow,NULL,Thrilling Bike Tours,adventure-works\linda3,pei0@adventure-works.com,789-555-0184,2007-09-01 00:00:00.000
+29653,0,Mr.,Pei,NULL,Chow,NULL,Thrilling Bike Tours,adventure-works\linda3,pei0@adventure-works.com,789-555-0184,2007-09-01 00:00:00.000
+29975,0,Mr.,Walter,J.,Mays,Sr.,Sports Products Store,adventure-works\linda3,walter1@adventure-works.com,245-555-0191,2006-09-01 00:00:00.000
+29975,0,Mr.,Walter,J.,Mays,Sr.,Sports Products Store,adventure-works\linda3,walter1@adventure-works.com,245-555-0191,2006-09-01 00:00:00.000
+29975,0,Mr.,Walter,J.,Mays,Sr.,Sports Products Store,adventure-works\linda3,walter1@adventure-works.com,245-555-0191,2006-09-01 00:00:00.000
+29975,0,Mr.,Walter,J.,Mays,Sr.,Sports Products Store,adventure-works\linda3,walter1@adventure-works.com,245-555-0191,2006-09-01 00:00:00.000
+29975,0,Mr.,Walter,J.,Mays,Sr.,Sports Products Store,adventure-works\linda3,walter1@adventure-works.com,245-555-0191,2006-09-01 00:00:00.000
+29975,0,Mr.,Walter,J.,Mays,Sr.,Sports Products Store,adventure-works\linda3,walter1@adventure-works.com,245-555-0191,2006-09-01 00:00:00.000
+29975,0,Mr.,Walter,J.,Mays,Sr.,Sports Products Store,adventure-works\linda3,walter1@adventure-works.com,245-555-0191,2006-09-01 00:00:00.000
+29644,0,Ms.,Brigid,F.,Cavendish,NULL,Vigorous Sports Store,adventure-works\jae0,brigid0@adventure-works.com,1 (11) 500 555-0178,2006-09-01 00:00:00.000
+29612,0,Mr.,Richard,A.,Byham,NULL,Channel Outlet,adventure-works\jae0,richard2@adventure-works.com,1 (11) 500 555-0138,2007-09-01 00:00:00.000
+29612,0,Mr.,Richard,A.,Byham,NULL,Channel Outlet,adventure-works\jae0,richard2@adventure-works.com,1 (11) 500 555-0138,2007-09-01 00:00:00.000
+29612,0,Mr.,Richard,A.,Byham,NULL,Channel Outlet,adventure-works\jae0,richard2@adventure-works.com,1 (11) 500 555-0138,2007-09-01 00:00:00.000
+29584,0,Mr.,Walter,J.,Brian,IV,Futuristic Bikes,adventure-works\shu0,walter0@adventure-works.com,163-555-0155,2006-09-01 00:00:00.000
+29584,0,Mr.,Walter,J.,Brian,IV,Futuristic Bikes,adventure-works\shu0,walter0@adventure-works.com,163-555-0155,2006-09-01 00:00:00.000
+29584,0,Mr.,Walter,J.,Brian,IV,Futuristic Bikes,adventure-works\shu0,walter0@adventure-works.com,163-555-0155,2006-09-01 00:00:00.000
+29877,0,Ms.,Joyce,NULL,Jarvis,NULL,Paints and Solvents Company,adventure-works\shu0,joyce0@adventure-works.com,458-555-0179,2007-09-01 00:00:00.000
+29877,0,Ms.,Joyce,NULL,Jarvis,NULL,Paints and Solvents Company,adventure-works\shu0,joyce0@adventure-works.com,458-555-0179,2007-09-01 00:00:00.000
+29877,0,Ms.,Joyce,NULL,Jarvis,NULL,Paints and Solvents Company,adventure-works\shu0,joyce0@adventure-works.com,458-555-0179,2007-09-01 00:00:00.000
+29877,0,Ms.,Joyce,NULL,Jarvis,NULL,Paints and Solvents Company,adventure-works\shu0,joyce0@adventure-works.com,458-555-0179,2007-09-01 00:00:00.000
+29877,0,Ms.,Joyce,NULL,Jarvis,NULL,Paints and Solvents Company,adventure-works\shu0,joyce0@adventure-works.com,458-555-0179,2007-09-01 00:00:00.000
+29877,0,Ms.,Joyce,NULL,Jarvis,NULL,Paints and Solvents Company,adventure-works\shu0,joyce0@adventure-works.com,458-555-0179,2007-09-01 00:00:00.000
+29877,0,Ms.,Joyce,NULL,Jarvis,NULL,Paints and Solvents Company,adventure-works\shu0,joyce0@adventure-works.com,458-555-0179,2007-09-01 00:00:00.000
+29877,0,Ms.,Joyce,NULL,Jarvis,NULL,Paints and Solvents Company,adventure-works\shu0,joyce0@adventure-works.com,458-555-0179,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29932,0,Ms.,Rebecca,NULL,Laszlo,NULL,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1 (11) 500 555-0155,2007-09-01 00:00:00.000
+29568,0,Mr.,Donald,L.,Blanton,NULL,Coalition Bike Company,adventure-works\shu0,donald0@adventure-works.com,357-555-0161,2006-09-01 00:00:00.000
+29568,0,Mr.,Donald,L.,Blanton,NULL,Coalition Bike Company,adventure-works\shu0,donald0@adventure-works.com,357-555-0161,2006-09-01 00:00:00.000
+29568,0,Mr.,Donald,L.,Blanton,NULL,Coalition Bike Company,adventure-works\shu0,donald0@adventure-works.com,357-555-0161,2006-09-01 00:00:00.000
+29568,0,Mr.,Donald,L.,Blanton,NULL,Coalition Bike Company,adventure-works\shu0,donald0@adventure-works.com,357-555-0161,2006-09-01 00:00:00.000
+29568,0,Mr.,Donald,L.,Blanton,NULL,Coalition Bike Company,adventure-works\shu0,donald0@adventure-works.com,357-555-0161,2006-09-01 00:00:00.000
+29568,0,Mr.,Donald,L.,Blanton,NULL,Coalition Bike Company,adventure-works\shu0,donald0@adventure-works.com,357-555-0161,2006-09-01 00:00:00.000
+29568,0,Mr.,Donald,L.,Blanton,NULL,Coalition Bike Company,adventure-works\shu0,donald0@adventure-works.com,357-555-0161,2006-09-01 00:00:00.000
+29568,0,Mr.,Donald,L.,Blanton,NULL,Coalition Bike Company,adventure-works\shu0,donald0@adventure-works.com,357-555-0161,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29929,0,Mr.,Jeffrey,NULL,Kurtz,NULL,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,452-555-0179,2006-09-01 00:00:00.000
+29638,0,Ms.,Rosmarie,J.,Carroll,NULL,Aerobic Exercise Company,adventure-works\linda3,rosmarie0@adventure-works.com,244-555-0112,2007-09-01 00:00:00.000
+29638,0,Ms.,Rosmarie,J.,Carroll,NULL,Aerobic Exercise Company,adventure-works\linda3,rosmarie0@adventure-works.com,244-555-0112,2007-09-01 00:00:00.000
+29638,0,Ms.,Rosmarie,J.,Carroll,NULL,Aerobic Exercise Company,adventure-works\linda3,rosmarie0@adventure-works.com,244-555-0112,2007-09-01 00:00:00.000
+29638,0,Ms.,Rosmarie,J.,Carroll,NULL,Aerobic Exercise Company,adventure-works\linda3,rosmarie0@adventure-works.com,244-555-0112,2007-09-01 00:00:00.000
+29638,0,Ms.,Rosmarie,J.,Carroll,NULL,Aerobic Exercise Company,adventure-works\linda3,rosmarie0@adventure-works.com,244-555-0112,2007-09-01 00:00:00.000
+30025,0,Ms.,Linda,NULL,Mitchell,NULL,Essential Bike Works,adventure-works\jae0,linda9@adventure-works.com,1 (11) 500 555-0182,2007-09-01 00:00:00.000
+29982,0,Ms.,Melissa,R.,Marple,NULL,Discount Tours,adventure-works\shu0,melissa0@adventure-works.com,685-555-0117,2005-12-01 00:00:00.000
+29982,0,Ms.,Melissa,R.,Marple,NULL,Discount Tours,adventure-works\shu0,melissa0@adventure-works.com,685-555-0117,2005-12-01 00:00:00.000
+29982,0,Ms.,Melissa,R.,Marple,NULL,Discount Tours,adventure-works\shu0,melissa0@adventure-works.com,685-555-0117,2005-12-01 00:00:00.000
+29982,0,Ms.,Melissa,R.,Marple,NULL,Discount Tours,adventure-works\shu0,melissa0@adventure-works.com,685-555-0117,2005-12-01 00:00:00.000
+29982,0,Ms.,Melissa,R.,Marple,NULL,Discount Tours,adventure-works\shu0,melissa0@adventure-works.com,685-555-0117,2005-12-01 00:00:00.000
+29982,0,Ms.,Melissa,R.,Marple,NULL,Discount Tours,adventure-works\shu0,melissa0@adventure-works.com,685-555-0117,2005-12-01 00:00:00.000
+29781,0,Mr.,Guy,NULL,Gilbert,NULL,The Bicycle Accessories Company,adventure-works\shu0,guy0@adventure-works.com,583-555-0198,2006-09-01 00:00:00.000
+29781,0,Mr.,Guy,NULL,Gilbert,NULL,The Bicycle Accessories Company,adventure-works\shu0,guy0@adventure-works.com,583-555-0198,2006-09-01 00:00:00.000
+29781,0,Mr.,Guy,NULL,Gilbert,NULL,The Bicycle Accessories Company,adventure-works\shu0,guy0@adventure-works.com,583-555-0198,2006-09-01 00:00:00.000
+29531,0,Mr.,Cory,K.,Booth,NULL,Remarkable Bike Store,adventure-works\linda3,cory0@adventure-works.com,121-555-0157,2005-12-01 00:00:00.000
+29531,0,Mr.,Cory,K.,Booth,NULL,Remarkable Bike Store,adventure-works\linda3,cory0@adventure-works.com,121-555-0157,2005-12-01 00:00:00.000
+29531,0,Mr.,Cory,K.,Booth,NULL,Remarkable Bike Store,adventure-works\linda3,cory0@adventure-works.com,121-555-0157,2005-12-01 00:00:00.000
+29531,0,Mr.,Cory,K.,Booth,NULL,Remarkable Bike Store,adventure-works\linda3,cory0@adventure-works.com,121-555-0157,2005-12-01 00:00:00.000
+29531,0,Mr.,Cory,K.,Booth,NULL,Remarkable Bike Store,adventure-works\linda3,cory0@adventure-works.com,121-555-0157,2005-12-01 00:00:00.000
+29531,0,Mr.,Cory,K.,Booth,NULL,Remarkable Bike Store,adventure-works\linda3,cory0@adventure-works.com,121-555-0157,2005-12-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+30050,0,Mr.,Krishna,NULL,Sunkammurali,NULL,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1 (11) 500 555-0177,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29546,0,Mr.,Christopher,R.,Beck,Jr.,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1 (11) 500 555-0132,2006-09-01 00:00:00.000
+29741,0,Sra.,Janeth,NULL,Esteves,NULL,Central Bicycle Specialists,adventure-works\jae0,janeth1@adventure-works.com,1 (11) 500 555-0136,2007-09-01 00:00:00.000

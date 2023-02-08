@@ -1,0 +1,9 @@
+1º Olhando para os dados fornecidos, desenhar o modelo de dados hive (Continua a ser relacional, mas nao criamos as tabelas com as chaves estrangeiras) - Esta estrutura é a mesma do HDFS.
+2º Escolher o melhor metodo de armazenamento do sistema por tabela.
+3º Ja temos os ficheiros organizados, agora temos de implementar o modelo de dados em Hive tendo em consideraçao as questoes de performance: Bucketing, partition, managed ou external tables. Estas melhorias, upload de dados para as tabelas, criaçao das mesmas devem ser todas feitas em código.
+4º Criar e executar queries.. E sempre necessario mostrar o plano de execuçao, o codigo e as questoes de performance. Se fizermos varias queries convinha mostrarmos todas as versoes e os diferentes planos de execuçao, questoes de performance de modo a valorizar o tp
+
+No fim, escolhemos 1 ou 2 queries das de cima ou uma que quisermos para implementar em Zeppelin.
+
+No csv, cada linha represennta uma linha de uma fatura, ou seja, existem multiplas faturas dentro do csv.
+Temos de o particionar em diferentes tabelas.
