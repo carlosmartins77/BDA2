@@ -1,20 +1,46 @@
-CREATE TABLE temp_Order (
-   CustomerId smallint,
-    NameStyle tinyint,
-    Title string,
-    FirstName string,
-    MiddleName string,
-    LastName string,
-    Suffix string,
-    CompanyName string,
-    SalesPerson string,
-    EmailAddress string,
+CREATE TABLE temp_SalesOrderDetail (
+    SalesOrderDetailId int,
+    SalesOrderId int,
+    OrderQty tinyint,
+    ProductId smallint,
+    UnitPrice float,
+    UnitPriceDiscount float,
+    LineTotal float,
     ModifiedDate timestamp)
 	ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
 	STORED AS TEXTFILE
 	TBLPROPERTIES("skip.header.line.count"="1");
 	
-	LOAD DATA INPATH '/warehouse/tablespace/external/hive/bda_g01_files/ORDER_FILE.csv' INTO TABLE temp_order;
+	LOAD DATA INPATH '/warehouse/tablespace/external/hive/bda_g01_files/SALESORDERDETAIL_FILE.csv' INTO TABLE temp_SalesOrderDetail ;
+
+CREATE TABLE temp_SalesOrder (
+    SalesOrderId int,
+    RevisionNumberId tinyint,
+    OrderDate timestamp,
+    DueDate timestamp,
+    ShipDate timestamp,
+    Status tinyint,
+    OnlineOrderFlag tinyint,
+    SalesOrderNumber string,
+    PurchaseOrderNumber string,
+    AccountNumber string,
+    CustomerId smallint,
+    ShipToAddressId smallint,
+    BillToAddressId smallint,
+    ShipMethod string,
+    CreditCardApprovalCode string,
+    SubTotal float,
+    TaxAmt float,
+    Freight float,
+    TotalDue float,
+    ModifiedDate timestamp)
+	ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
+	STORED AS TEXTFILE
+	TBLPROPERTIES("skip.header.line.count"="1");
+	
+	LOAD DATA INPATH '/warehouse/tablespace/external/hive/bda_g01_files/SALESORDER_FILE.csv' INTO TABLE temp_SalesOrderl ;
+
+
 
 	CREATE TABLE temp_Customer (
    CustomerId smallint,
@@ -33,21 +59,6 @@ CREATE TABLE temp_Order (
 	TBLPROPERTIES("skip.header.line.count"="1");
 	
 	LOAD DATA INPATH '/warehouse/tablespace/external/hive/bda_g01_files/CUSTOMER_FILE.csv' INTO TABLE temp_Customer;
-	
-	CREATE TABLE temp_Sale (
-   	 SalesOrderId int,
-    SalesOrderDetailId int,
-    OrderQty tinyint,
-    ProductId smallint,
-    UnitPrice float,
-    UnitPriceDiscount float,
-    LineTotal float,
-    ModifiedDate timestamp)
-	ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
-	STORED AS TEXTFILE
-	TBLPROPERTIES("skip.header.line.count"="1");
-	
-	LOAD DATA INPATH '/warehouse/tablespace/external/hive/bda_g01_files/SALES_FILE.csv' INTO TABLE temp_Sale;
 	
 	CREATE TABLE temp_Product (
    	   ProductId smallint,

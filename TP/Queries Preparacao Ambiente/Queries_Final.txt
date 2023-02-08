@@ -1,5 +1,5 @@
 	
-CREATE TABLE `Order` (
+CREATE TABLE `SalesOrder` (
   	SalesOrderId int,
     RevisionNumberId tinyint,
     OrderDate timestamp,
@@ -22,7 +22,20 @@ CREATE TABLE `Order` (
     ModifiedDate timestamp)
 	STORED AS ORC;
 	
-	INSERT INTO TABLE `order` SELECT * FROM bda_g01_files.temp_Order;
+	INSERT INTO TABLE `SalesOrder` SELECT * FROM bda_g01_files.temp_SalesOrder;
+
+CREATE TABLE `SalesOrderDetail` (
+SalesOrderDetailId int,
+    SalesOrderId int,
+    OrderQty tinyint,
+    ProductId smallint,
+    UnitPrice float,
+    UnitPriceDiscount float,
+    LineTotal float,
+    ModifiedDate timestamp)
+	STORED AS ORC;
+	
+	INSERT INTO TABLE `SalesOrderDetail` SELECT * FROM bda_g01_files.temp_SalesOrderDetail;
 	
 	
 CREATE TABLE `Customer` (
@@ -36,6 +49,7 @@ CREATE TABLE `Customer` (
     CompanyName string,
     SalesPerson string,
     EmailAddress string,
+    Phone sting,
     ModifiedDate timestamp)
 	STORED AS ORC;
 	
