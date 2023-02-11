@@ -31,3 +31,19 @@ group by productID
 SELECT product.productID, product.Name, product.standardcost, product.listprice, sal.mediapreco
 FROM product, sal 
 where product.standardcost > sal.mediapreco;
+
+5.
+WITH sal AS (
+SELECT productid, AVG(orderqty) as avg_order_qty, SUM(orderqty) as total_order_qty
+FROM salesorderdetail
+GROUP BY productid
+)
+SELECT p.productid, 
+       p.name, 
+       p.productcategoryid, 
+       s.avg_order_qty,
+       s.total_order_qty
+FROM product p
+JOIN sal s ON p.productid = s.productid
+ORDER BY s.total_order_qty DESC;
+
