@@ -20,6 +20,7 @@ CREATE TABLE `SalesOrder` (
     Freight float,
     TotalDue float,
     ModifiedDate timestamp)
+    PARTITIONED BY (CustomerId  smallint)
 	STORED AS ORC;
 	
 	INSERT INTO TABLE `SalesOrder` SELECT * FROM bda_g01_files.temp_SalesOrder;
@@ -33,6 +34,8 @@ SalesOrderDetailId int,
     UnitPriceDiscount float,
     LineTotal float,
     ModifiedDate timestamp)
+    CLUSTERED BY (ProductId) INTO 4 BUCKETS
+    CLUSTERED BY (UnitPrice) INTO 4 BUCKETS
 	STORED AS ORC;
 	
 	INSERT INTO TABLE `SalesOrderDetail` SELECT * FROM bda_g01_files.temp_SalesOrderDetail;
@@ -51,6 +54,7 @@ CREATE TABLE `Customer` (
     EmailAddress string,
     Phone string,
     ModifiedDate timestamp)
+    PARTITIONED BY (CompanyName string)
 	STORED AS ORC;
 	
 	INSERT INTO TABLE `Customer` SELECT * FROM bda_g01_files.temp_Customer;
@@ -71,7 +75,10 @@ ProductId smallint,
     SellStartDate timestamp,
     SellEndDate timestamp,
     ModifiedDate timestamp)
-	STORED AS ORC;
+    PARTITIONED BY (ProductCategoryId tinyint)
+    PARTITIONED BY (Size string)
+    CLUSTERED BY (ListPrice) INTO 4 BUCKETS 
+    STORED AS ORC;
 	
 	INSERT INTO TABLE `Product` SELECT * FROM bda_g01_files.temp_product;
 	
