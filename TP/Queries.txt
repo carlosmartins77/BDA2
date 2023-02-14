@@ -47,3 +47,29 @@ FROM product p
 JOIN sal s ON p.productid = s.productid
 ORDER BY s.total_order_qty DESC;
 
+6.
+SELECT 
+  c.companyname, 
+  COUNT(s.salesorderid) AS NumberOfPurchases
+FROM 
+  salesorder s, customer c
+  where s.customerid = c.customerid
+GROUP BY 
+  c.companyname
+ORDER BY 
+  COUNT(s.salesorderid) DESC;
+  
+  
+  WITH sal AS (
+  SELECT 
+  c.companyname, 
+  COUNT(s.salesorderid) AS NumberOfPurchases
+FROM 
+  salesorder s, customer c
+  where s.customerid = c.customerid
+GROUP BY 
+  c.companyname
+  )
+SELECT * FROM sal 
+ORDER BY sal.NumberOfPurchases
+
