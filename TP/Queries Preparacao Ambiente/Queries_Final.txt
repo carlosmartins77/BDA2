@@ -1,6 +1,6 @@
 	
 CREATE TABLE `SalesOrder` (
-  	SalesOrderId int,
+    SalesOrderId int,
     RevisionNumberId tinyint,
     OrderDate timestamp,
     DueDate timestamp,
@@ -21,7 +21,7 @@ CREATE TABLE `SalesOrder` (
     TotalDue float,
     ModifiedDate timestamp)
     PARTITIONED BY (CustomerId  smallint)
-	STORED AS ORC;
+    STORED AS ORC;
 	
 	INSERT INTO TABLE `SalesOrder` SELECT * FROM bda_g01_files.temp_SalesOrder;
 
@@ -34,28 +34,26 @@ SalesOrderDetailId int,
     UnitPriceDiscount float,
     LineTotal float,
     ModifiedDate timestamp)
-    CLUSTERED BY (ProductId) INTO 4 BUCKETS
-    CLUSTERED BY (UnitPrice) INTO 4 BUCKETS
-	STORED AS ORC;
+    CLUSTERED BY (ProductId) INTO 4 BUCKETS 
+STORED AS ORC;
 	
 	INSERT INTO TABLE `SalesOrderDetail` SELECT * FROM bda_g01_files.temp_SalesOrderDetail;
 	
 	
 CREATE TABLE `Customer` (
-  	CustomerId smallint,
+    CustomerId smallint,
     NameStyle tinyint,
     Title string,
     FirstName string,
     MiddleName string,
     LastName string,
     Suffix string,
-    CompanyName string,
     SalesPerson string,
     EmailAddress string,
     Phone string,
     ModifiedDate timestamp)
     PARTITIONED BY (CompanyName string)
-	STORED AS ORC;
+STORED AS ORC;
 	
 	INSERT INTO TABLE `Customer` SELECT * FROM bda_g01_files.temp_Customer;
 	
@@ -68,17 +66,15 @@ ProductId smallint,
     Color string,
     StandardCost float,
     ListPrice string,
-    Size string,
     Weight float,
-    ProductCategoryId tinyint,
     ProductModelId smallint,
     SellStartDate timestamp,
     SellEndDate timestamp,
     ModifiedDate timestamp)
-    PARTITIONED BY (ProductCategoryId tinyint)
-    PARTITIONED BY (Size string)
+    PARTITIONED BY (ProductCategoryId tinyint, Size string)
     CLUSTERED BY (ListPrice) INTO 4 BUCKETS 
     STORED AS ORC;
+
 	
 	INSERT INTO TABLE `Product` SELECT * FROM bda_g01_files.temp_product;
 	
